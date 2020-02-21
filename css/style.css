@@ -1,0 +1,137 @@
+* {
+  box-sizing: border-box;
+}
+header{
+  height: 100px;
+  width: 100%;
+  background-color: #165f2d;
+}
+.headerSmall{
+  width: 20%;
+  height: 100px;
+  float: left;
+  text-align:center;
+  font-size: 20px;
+  color: white;
+
+}
+.headerLarge{
+  width: 60%;
+  height: 100px;
+  text-align: center;
+  font-size: 20px;
+  float: left;
+  color: white;
+}
+.headerSmallRight{
+  width: 20%;
+  height: 100px;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 30px;
+  color: white;
+}
+.headerSmall h3{
+  margin: 0;
+  padding-top: 20px;
+}
+header nav li{
+  float: left;
+  list-style-type: none;
+  font-size: 30px;
+  padding-left:30px;
+  color: black;
+}
+.large_container{
+  height: 900px;
+  width: 100%;
+}
+.container_pic{
+
+  height: 840px;
+  width: 65%;
+  margin: 55px auto;
+}
+.container_pic img{
+  width: 100%;
+}
+.container_pic h2{
+  font-size: 70px;
+}
+.largerContainer{
+  height: 500px;
+  width:100%;
+  clear: both;
+}
+.quarter{
+  width: 25%;
+  height: 500px;
+  float: left;
+}
+.quarter section{
+  height: 250px;
+  float: left;
+  width: 100%;
+}
+.half{
+  height: 500px;
+  width: 25%;
+  float: left;
+}
+.half section{
+  height: 250px;
+  width: 100%;
+  float: left;
+}
+.three_quarter{
+  height: 500px;
+  width: 25%;
+  float: left;
+}
+.three_quarter section{
+  height: 250px;
+  width: 100%;
+  float: left;
+}
+.whole{
+  height: 500px;
+  width: 25%;
+  float: left;
+}
+.whole section{
+  height: 250px;
+  width: 100%;
+  float: left;
+}
+footer{
+  height: 150px;
+  width: 100%;
+  clear: both;
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-size: 10px;
+}
+.first ul{
+  padding
+}
+.first li{
+  list-style-type: none;
+  text-decoration: none;
+  text-decoration-style: none;
+  padding-left: 30px;
+  display: inline-block;
+  margin-left: 50px;
+  padding: 0;
+  text-align: center;
+}
+.second li{
+  text-decoration-style: none;
+  list-style-type: none;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 80px;
+  padding-left: 10px;
+  padding: 0;
+}
